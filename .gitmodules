@@ -93,3 +93,8 @@
 	url = https://github.com/zkamvar/ggcompoplot
 	shallow = true
 	registered = true
+[submodule "linelist"]
+	path = linelist
+	url = https://github.com/reconhub/linelist
+	shallow = true
+	registered = false
