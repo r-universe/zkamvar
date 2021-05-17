@@ -46,5 +46,11 @@
     "url": "https://github.com/reconhub/linelist",
     "via": ["sitrep"],
     "from": "sitrep"
+  },
+  {
+    "package": "rmetasim",
+    "url": "https://github.com/stranda/rmetasim",
+    "via": ["strataG"],
+    "from": "strataG"
   }
 ]
