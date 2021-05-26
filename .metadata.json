@@ -1,0 +1,60 @@
+[
+  {
+    "package": "tinkr"
+  },
+  {
+    "package": "pegboard"
+  },
+  {
+    "package": "sandpaper"
+  },
+  {
+    "package": "varnish"
+  },
+  {
+    "package": "poppr",
+    "oncran": true
+  },
+  {
+    "package": "adegenet",
+    "oncran": true
+  },
+  {
+    "package": "aweek",
+    "oncran": true
+  },
+  {
+    "package": "incidence",
+    "oncran": true
+  },
+  {
+    "package": "matchmaker",
+    "oncran": true
+  },
+  {
+    "package": "epidict"
+  },
+  {
+    "package": "epikit",
+    "oncran": true
+  },
+  {
+    "package": "apyramid",
+    "oncran": true
+  },
+  {
+    "package": "epibuffet"
+  },
+  {
+    "package": "sitrep"
+  },
+  {
+    "package": "repvar"
+  },
+  {
+    "package": "beaverdown"
+  },
+  {
+    "package": "ggcompoplot"
+  }
+]
