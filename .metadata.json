@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "hierfstat",
+    "oncran": true
+  },
+  {
     "package": "aweek",
     "oncran": true
   },
