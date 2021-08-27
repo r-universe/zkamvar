@@ -9,6 +9,10 @@
     "package": "sandpaper"
   },
   {
+    "package": "renv",
+    "oncran": true
+  },
+  {
     "package": "varnish"
   },
   {

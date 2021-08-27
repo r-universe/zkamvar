@@ -19,7 +19,12 @@
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
 	shallow = true
-	branch = main
+	branch = package-management
+	registered = true
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+	shallow = true
 	registered = true
 [submodule "varnish"]
 	path = varnish
