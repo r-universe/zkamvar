@@ -19,7 +19,6 @@
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
 	shallow = true
-	branch = package-management
 	registered = true
 [submodule "renv"]
 	path = renv
