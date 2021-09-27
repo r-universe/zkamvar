@@ -24,8 +24,15 @@
     "oncran": true
   },
   {
+    "package": "ade4",
+    "oncran": true
+  },
+  {
     "package": "hierfstat",
     "oncran": true
+  },
+  {
+    "package": "strataG"
   },
   {
     "package": "aweek",

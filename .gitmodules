@@ -42,9 +42,19 @@
 	url = https://github.com/thibautjombart/adegenet
 	shallow = true
 	registered = true
+[submodule "ade4"]
+	path = ade4
+	url = https://github.com/sdray/ade4
+	shallow = true
+	registered = true
 [submodule "hierfstat"]
 	path = hierfstat
 	url = https://github.com/jgx65/hierfstat
+	shallow = true
+	registered = true
+[submodule "strataG"]
+	path = strataG
+	url = https://github.com/EricArcher/strataG/
 	shallow = true
 	registered = true
 [submodule "aweek"]
