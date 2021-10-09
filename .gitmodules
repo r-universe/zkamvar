@@ -41,7 +41,6 @@
 	path = adegenet
 	url = https://github.com/thibautjombart/adegenet
 	shallow = true
-	branch = cran-release-2021-10
 	registered = true
 [submodule "ade4"]
 	path = ade4
