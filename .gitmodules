@@ -52,11 +52,6 @@
 	url = https://github.com/jgx65/hierfstat
 	shallow = true
 	registered = true
-[submodule "strataG"]
-	path = strataG
-	url = https://github.com/EricArcher/strataG/
-	shallow = true
-	registered = true
 [submodule "aweek"]
 	path = aweek
 	url = https://github.com/reconhub/aweek
@@ -85,16 +80,6 @@
 [submodule "apyramid"]
 	path = apyramid
 	url = https://github.com/r4epi/apyramid
-	shallow = true
-	registered = true
-[submodule "epibuffet"]
-	path = epibuffet
-	url = https://github.com/r4epi/epibuffet
-	shallow = true
-	registered = true
-[submodule "sitrep"]
-	path = sitrep
-	url = https://github.com/r4epi/sitrep
 	shallow = true
 	registered = true
 [submodule "repvar"]
