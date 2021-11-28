@@ -6,12 +6,6 @@
     "from": "sitrep"
   },
   {
-    "package": "epibuffet",
-    "url": "https://github.com/R4EPI/epibuffet",
-    "via": ["sitrep"],
-    "from": "sitrep"
-  },
-  {
     "package": "epidict",
     "url": "https://github.com/R4EPI/epidict",
     "via": ["epibuffet"],
@@ -20,7 +14,7 @@
   {
     "package": "epidict",
     "url": "https://github.com/R4EPI/epidict",
-    "via": ["sitrep", "epibuffet"],
+    "via": ["sitrep", "epitabulate"],
     "from": "sitrep"
   },
   {
@@ -38,7 +32,13 @@
   {
     "package": "epikit",
     "url": "https://github.com/R4EPI/epikit",
-    "via": ["sitrep", "epibuffet"],
+    "via": ["sitrep", "epitabulate"],
+    "from": "sitrep"
+  },
+  {
+    "package": "epitabulate",
+    "url": "https://github.com/R4EPI/epitabulate",
+    "via": ["sitrep"],
     "from": "sitrep"
   },
   {

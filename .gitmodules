@@ -112,6 +112,11 @@
 	url = https://github.com/zkamvar/ggcompoplot
 	shallow = true
 	registered = true
+[submodule "epitabulate"]
+	path = epitabulate
+	url = https://github.com/R4EPI/epitabulate
+	shallow = true
+	registered = false
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/reconhub/linelist
