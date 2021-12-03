@@ -52,5 +52,11 @@
     "url": "https://github.com/stranda/rmetasim",
     "via": ["strataG"],
     "from": "strataG"
+  },
+  {
+    "package": "tinkr",
+    "url": "https://github.com/ropensci/tinkr",
+    "via": ["pegboard"],
+    "from": "pegboard"
   }
 ]
