@@ -54,7 +54,7 @@
 	registered = true
 [submodule "strataG"]
 	path = strataG
-	url = https://github.com/EricArcher/strataG/
+	url = https://github.com/EricArcher/strataG
 	shallow = true
 	registered = true
 [submodule "aweek"]
