@@ -1,7 +1,7 @@
 [
   {
     "package": "tinkr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "pegboard"
