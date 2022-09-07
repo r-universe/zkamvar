@@ -36,14 +36,14 @@
     "from": "sitrep"
   },
   {
-    "package": "epitabulate",
-    "url": "https://github.com/R4EPI/epitabulate",
+    "package": "epikit",
+    "url": "https://github.com/R4EPI/epikit",
     "via": ["sitrep"],
     "from": "sitrep"
   },
   {
-    "package": "linelist",
-    "url": "https://github.com/reconhub/linelist",
+    "package": "epitabulate",
+    "url": "https://github.com/R4EPI/epitabulate",
     "via": ["sitrep"],
     "from": "sitrep"
   },
