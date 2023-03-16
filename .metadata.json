@@ -1,7 +1,6 @@
 [
   {
-    "package": "tinkr",
-    "oncran": true
+    "package": "tinkr"
   },
   {
     "package": "pegboard"
@@ -10,53 +9,43 @@
     "package": "sandpaper"
   },
   {
-    "package": "renv",
-    "oncran": true
+    "package": "renv"
   },
   {
     "package": "varnish"
   },
   {
-    "package": "poppr",
-    "oncran": true
+    "package": "poppr"
   },
   {
-    "package": "adegenet",
-    "oncran": true
+    "package": "adegenet"
   },
   {
-    "package": "ade4",
-    "oncran": true
+    "package": "ade4"
   },
   {
-    "package": "hierfstat",
-    "oncran": true
+    "package": "hierfstat"
   },
   {
     "package": "strataG"
   },
   {
-    "package": "aweek",
-    "oncran": true
+    "package": "aweek"
   },
   {
-    "package": "incidence",
-    "oncran": true
+    "package": "incidence"
   },
   {
-    "package": "matchmaker",
-    "oncran": true
+    "package": "matchmaker"
   },
   {
     "package": "epidict"
   },
   {
-    "package": "epikit",
-    "oncran": true
+    "package": "epikit"
   },
   {
-    "package": "apyramid",
-    "oncran": true
+    "package": "apyramid"
   },
   {
     "package": "epibuffet"
