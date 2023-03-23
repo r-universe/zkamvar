@@ -54,12 +54,6 @@
     "from": "sandpaper"
   },
   {
-    "package": "renv",
-    "url": "https://github.com/rstudio/renv",
-    "via": ["sandpaper"],
-    "from": "sandpaper"
-  },
-  {
     "package": "rmetasim",
     "url": "https://github.com/stranda/rmetasim",
     "via": ["strataG"],
