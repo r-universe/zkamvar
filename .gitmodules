@@ -117,11 +117,6 @@
 	url = https://github.com/R4EPI/epitabulate
 	shallow = true
 	registered = false
-[submodule "pkgload"]
-	path = pkgload
-	url = https://github.com/r-lib/pkgload
-	shallow = true
-	registered = false
 [submodule "rmetasim"]
 	path = rmetasim
 	url = https://github.com/stranda/rmetasim
