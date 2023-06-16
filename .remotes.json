@@ -60,12 +60,6 @@
     "from": "sandpaper"
   },
   {
-    "package": "tinkr",
-    "url": "https://github.com/ropensci/tinkr",
-    "via": ["sandpaper", "pegboard"],
-    "from": "sandpaper"
-  },
-  {
     "package": "varnish",
     "url": "https://github.com/carpentries/varnish",
     "via": ["sandpaper"],
