@@ -87,9 +87,9 @@
 	url = https://github.com/r4epi/apyramid
 	shallow = true
 	registered = true
-[submodule "epibuffet"]
-	path = epibuffet
-	url = https://github.com/r4epi/epibuffet
+[submodule "epitabulate"]
+	path = epitabulate
+	url = https://github.com/r4epi/epitabulate
 	shallow = true
 	registered = true
 [submodule "sitrep"]
@@ -112,11 +112,6 @@
 	url = https://github.com/zkamvar/ggcompoplot
 	shallow = true
 	registered = true
-[submodule "epitabulate"]
-	path = epitabulate
-	url = https://github.com/R4EPI/epitabulate
-	shallow = true
-	registered = false
 [submodule "rmetasim"]
 	path = rmetasim
 	url = https://github.com/stranda/rmetasim
