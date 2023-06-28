@@ -1,119 +1,75 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/zkamvar/universe
-	shallow = true
 	branch = HEAD
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
-	shallow = true
 	branch = main
-	registered = true
 [submodule "sandpaper"]
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
-	shallow = true
-	registered = true
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
-	shallow = true
-	registered = true
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
-	shallow = true
 	branch = main
-	registered = true
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
-	shallow = true
 	branch = main
-	registered = true
 [submodule "adegenet"]
 	path = adegenet
 	url = https://github.com/thibautjombart/adegenet
-	shallow = true
-	registered = true
 [submodule "ade4"]
 	path = ade4
 	url = https://github.com/sdray/ade4
-	shallow = true
-	registered = true
 [submodule "hierfstat"]
 	path = hierfstat
 	url = https://github.com/jgx65/hierfstat
-	shallow = true
-	registered = true
 [submodule "strataG"]
 	path = strataG
 	url = https://github.com/EricArcher/strataG
-	shallow = true
-	registered = true
 [submodule "aweek"]
 	path = aweek
 	url = https://github.com/reconhub/aweek
-	shallow = true
-	registered = true
 [submodule "incidence"]
 	path = incidence
 	url = https://github.com/reconhub/incidence
-	shallow = true
-	registered = true
 [submodule "matchmaker"]
 	path = matchmaker
 	url = https://github.com/reconhub/matchmaker
-	shallow = true
-	registered = true
 [submodule "epidict"]
 	path = epidict
 	url = https://github.com/r4epi/epidict
-	shallow = true
-	registered = true
 [submodule "epikit"]
 	path = epikit
 	url = https://github.com/r4epi/epikit
-	shallow = true
-	registered = true
 [submodule "apyramid"]
 	path = apyramid
 	url = https://github.com/r4epi/apyramid
-	shallow = true
-	registered = true
 [submodule "epitabulate"]
 	path = epitabulate
 	url = https://github.com/r4epi/epitabulate
-	shallow = true
-	registered = true
 [submodule "sitrep"]
 	path = sitrep
 	url = https://github.com/r4epi/sitrep
-	shallow = true
-	registered = true
 [submodule "repvar"]
 	path = repvar
 	url = https://github.com/zkamvar/repvar
-	shallow = true
-	registered = true
 [submodule "beaverdown"]
 	path = beaverdown
 	url = https://github.com/zkamvar/beaverdown
-	shallow = true
-	registered = true
 [submodule "ggcompoplot"]
 	path = ggcompoplot
 	url = https://github.com/zkamvar/ggcompoplot
-	shallow = true
-	registered = true
 [submodule "rmetasim"]
 	path = rmetasim
 	url = https://github.com/stranda/rmetasim
-	shallow = true
 	registered = false
