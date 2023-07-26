@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/zkamvar/universe
+	url = https://github.com/zkamvar/zkamvar.r-universe.dev
 	branch = HEAD
 [submodule "tinkr"]
 	path = tinkr
