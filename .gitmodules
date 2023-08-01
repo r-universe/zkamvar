@@ -2,74 +2,74 @@
 	path = .registry
 	url = https://github.com/zkamvar/zkamvar.r-universe.dev
 	branch = HEAD
-[submodule "tinkr"]
-	path = tinkr
-	url = https://github.com/ropensci/tinkr
-	branch = master
-[submodule "pegboard"]
-	path = pegboard
-	url = https://github.com/carpentries/pegboard
-	branch = main
-[submodule "sandpaper"]
-	path = sandpaper
-	url = https://github.com/carpentries/sandpaper
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
-[submodule "varnish"]
-	path = varnish
-	url = https://github.com/carpentries/varnish
-	branch = main
-[submodule "poppr"]
-	path = poppr
-	url = https://github.com/grunwaldlab/poppr
-	branch = main
-[submodule "adegenet"]
-	path = adegenet
-	url = https://github.com/thibautjombart/adegenet
 [submodule "ade4"]
 	path = ade4
 	url = https://github.com/sdray/ade4
-[submodule "hierfstat"]
-	path = hierfstat
-	url = https://github.com/jgx65/hierfstat
-[submodule "strataG"]
-	path = strataG
-	url = https://github.com/EricArcher/strataG
+[submodule "adegenet"]
+	path = adegenet
+	url = https://github.com/thibautjombart/adegenet
+[submodule "apyramid"]
+	path = apyramid
+	url = https://github.com/r4epi/apyramid
 [submodule "aweek"]
 	path = aweek
 	url = https://github.com/reconhub/aweek
-[submodule "incidence"]
-	path = incidence
-	url = https://github.com/reconhub/incidence
-[submodule "matchmaker"]
-	path = matchmaker
-	url = https://github.com/reconhub/matchmaker
+[submodule "beaverdown"]
+	path = beaverdown
+	url = https://github.com/zkamvar/beaverdown
 [submodule "epidict"]
 	path = epidict
 	url = https://github.com/r4epi/epidict
 [submodule "epikit"]
 	path = epikit
 	url = https://github.com/r4epi/epikit
-[submodule "apyramid"]
-	path = apyramid
-	url = https://github.com/r4epi/apyramid
 [submodule "epitabulate"]
 	path = epitabulate
 	url = https://github.com/r4epi/epitabulate
-[submodule "sitrep"]
-	path = sitrep
-	url = https://github.com/r4epi/sitrep
-[submodule "repvar"]
-	path = repvar
-	url = https://github.com/zkamvar/repvar
-[submodule "beaverdown"]
-	path = beaverdown
-	url = https://github.com/zkamvar/beaverdown
 [submodule "ggcompoplot"]
 	path = ggcompoplot
 	url = https://github.com/zkamvar/ggcompoplot
+[submodule "hierfstat"]
+	path = hierfstat
+	url = https://github.com/jgx65/hierfstat
+[submodule "incidence"]
+	path = incidence
+	url = https://github.com/reconhub/incidence
+[submodule "matchmaker"]
+	path = matchmaker
+	url = https://github.com/reconhub/matchmaker
+[submodule "pegboard"]
+	path = pegboard
+	url = https://github.com/carpentries/pegboard
+	branch = main
+[submodule "poppr"]
+	path = poppr
+	url = https://github.com/grunwaldlab/poppr
+	branch = main
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+[submodule "repvar"]
+	path = repvar
+	url = https://github.com/zkamvar/repvar
 [submodule "rmetasim"]
 	path = rmetasim
 	url = https://github.com/stranda/rmetasim
 	registered = false
+[submodule "sandpaper"]
+	path = sandpaper
+	url = https://github.com/carpentries/sandpaper
+[submodule "sitrep"]
+	path = sitrep
+	url = https://github.com/r4epi/sitrep
+[submodule "strataG"]
+	path = strataG
+	url = https://github.com/EricArcher/strataG
+[submodule "tinkr"]
+	path = tinkr
+	url = https://github.com/ropensci/tinkr
+	branch = master
+[submodule "varnish"]
+	path = varnish
+	url = https://github.com/carpentries/varnish
+	branch = main
