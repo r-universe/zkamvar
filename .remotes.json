@@ -63,7 +63,6 @@
     "package": "varnish",
     "url": "https://github.com/carpentries/varnish",
     "via": ["sandpaper"],
-    "branch": "add-l10n-support",
     "from": "sandpaper"
   }
 ]
