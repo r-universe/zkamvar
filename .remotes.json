@@ -36,33 +36,9 @@
     "from": "sitrep"
   },
   {
-    "package": "pegboard",
-    "url": "https://github.com/carpentries/pegboard",
-    "via": ["sandpaper"],
-    "from": "sandpaper"
-  },
-  {
     "package": "rmetasim",
     "url": "https://github.com/stranda/rmetasim",
     "via": ["strataG"],
     "from": "strataG"
-  },
-  {
-    "package": "tinkr",
-    "url": "https://github.com/ropensci/tinkr",
-    "via": ["pegboard"],
-    "from": "pegboard"
-  },
-  {
-    "package": "tinkr",
-    "url": "https://github.com/ropensci/tinkr",
-    "via": ["sandpaper", "pegboard"],
-    "from": "sandpaper"
-  },
-  {
-    "package": "varnish",
-    "url": "https://github.com/carpentries/varnish",
-    "via": ["sandpaper"],
-    "from": "sandpaper"
   }
 ]

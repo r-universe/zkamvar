@@ -38,10 +38,6 @@
 [submodule "matchmaker"]
 	path = matchmaker
 	url = https://github.com/reconhub/matchmaker
-[submodule "pegboard"]
-	path = pegboard
-	url = https://github.com/carpentries/pegboard
-	registered = false
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
@@ -63,7 +59,3 @@
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
 	branch = master
-[submodule "varnish"]
-	path = varnish
-	url = https://github.com/carpentries/varnish
-	registered = false
