@@ -41,14 +41,11 @@
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
-	branch = main
+	registered = false
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
 	branch = main
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
 [submodule "repvar"]
 	path = repvar
 	url = https://github.com/zkamvar/repvar
@@ -56,9 +53,6 @@
 	path = rmetasim
 	url = https://github.com/stranda/rmetasim
 	registered = false
-[submodule "sandpaper"]
-	path = sandpaper
-	url = https://github.com/carpentries/sandpaper
 [submodule "sitrep"]
 	path = sitrep
 	url = https://github.com/r4epi/sitrep
@@ -72,4 +66,4 @@
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
-	branch = main
+	registered = false
