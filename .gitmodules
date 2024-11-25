@@ -41,7 +41,6 @@
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
-	branch = main
 [submodule "repvar"]
 	path = repvar
 	url = https://github.com/zkamvar/repvar
@@ -58,4 +57,3 @@
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
-	branch = master
