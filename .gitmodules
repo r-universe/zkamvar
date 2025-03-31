@@ -38,6 +38,9 @@
 [submodule "matchmaker"]
 	path = matchmaker
 	url = https://github.com/reconhub/matchmaker
+[submodule "pinsha"]
+	path = pinsha
+	url = https://github.com/zkamvar/pinsha
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/grunwaldlab/poppr
