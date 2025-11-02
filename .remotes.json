@@ -2,12 +2,6 @@
   {
     "package": "apyramid",
     "url": "https://github.com/R4EPI/apyramid",
-    "via": ["epidict", "sitrep"],
-    "from": "epidict"
-  },
-  {
-    "package": "apyramid",
-    "url": "https://github.com/R4EPI/apyramid",
     "via": ["sitrep"],
     "from": "sitrep"
   },
@@ -26,12 +20,6 @@
   {
     "package": "epikit",
     "url": "https://github.com/R4EPI/epikit",
-    "via": ["epidict", "sitrep", "epitabulate"],
-    "from": "epidict"
-  },
-  {
-    "package": "epikit",
-    "url": "https://github.com/R4EPI/epikit",
     "via": ["epitabulate"],
     "from": "epitabulate"
   },
@@ -40,12 +28,6 @@
     "url": "https://github.com/R4EPI/epikit",
     "via": ["sitrep", "epitabulate"],
     "from": "sitrep"
-  },
-  {
-    "package": "epitabulate",
-    "url": "https://github.com/R4EPI/epitabulate",
-    "via": ["epidict", "sitrep"],
-    "from": "epidict"
   },
   {
     "package": "epitabulate",
@@ -58,11 +40,5 @@
     "url": "https://github.com/stranda/rmetasim",
     "via": ["strataG"],
     "from": "strataG"
-  },
-  {
-    "package": "sitrep",
-    "url": "https://github.com/R4EPI/sitrep",
-    "via": ["epidict"],
-    "from": "epidict"
   }
 ]
