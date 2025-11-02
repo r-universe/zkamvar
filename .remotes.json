@@ -8,20 +8,8 @@
   {
     "package": "epidict",
     "url": "https://github.com/R4EPI/epidict",
-    "via": ["epitabulate"],
-    "from": "epitabulate"
-  },
-  {
-    "package": "epidict",
-    "url": "https://github.com/R4EPI/epidict",
     "via": ["sitrep", "epitabulate"],
     "from": "sitrep"
-  },
-  {
-    "package": "epikit",
-    "url": "https://github.com/R4EPI/epikit",
-    "via": ["epitabulate"],
-    "from": "epitabulate"
   },
   {
     "package": "epikit",
