@@ -1,29 +1,5 @@
 [
   {
-    "package": "apyramid",
-    "url": "https://github.com/R4EPI/apyramid",
-    "via": ["sitrep"],
-    "from": "sitrep"
-  },
-  {
-    "package": "epidict",
-    "url": "https://github.com/R4EPI/epidict",
-    "via": ["sitrep"],
-    "from": "sitrep"
-  },
-  {
-    "package": "epikit",
-    "url": "https://github.com/R4EPI/epikit",
-    "via": ["sitrep"],
-    "from": "sitrep"
-  },
-  {
-    "package": "epitabulate",
-    "url": "https://github.com/R4EPI/epitabulate",
-    "via": ["sitrep"],
-    "from": "sitrep"
-  },
-  {
     "package": "rmetasim",
     "url": "https://github.com/stranda/rmetasim",
     "via": ["strataG"],
