@@ -47,10 +47,6 @@
 [submodule "repvar"]
 	path = repvar
 	url = https://github.com/zkamvar/repvar
-[submodule "rmetasim"]
-	path = rmetasim
-	url = https://github.com/stranda/rmetasim
-	registered = false
 [submodule "sitrep"]
 	path = sitrep
 	url = https://github.com/r4epi/sitrep
